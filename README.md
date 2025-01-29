@@ -17,3 +17,5 @@ Here's what I did:
 
 #AWS #AWSCloud #AmazonLex #LearningInPublic #ChatbotDevelopment #LearningJourney
 
+
+![Screenshot 2025-01-29 212819](https://github.com/user-attachments/assets/69e5143e-61f4-4247-b8c9-3378b7ba6214)
